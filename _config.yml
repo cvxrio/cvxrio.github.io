@@ -145,7 +145,7 @@ navigation_header:
 #   url: https://github.com/daviddarnes/alembic
 
 navigation_footer:
-- title: Desenvolvido por Fernando "ferox" dos Santos
+- title: Desenvolvido por ferox
   url: https://ferox.eti.br
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
