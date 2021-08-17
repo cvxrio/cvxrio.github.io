@@ -1,2 +1,2 @@
-# cvxrio.github.io
-Portal da CVX Regional Rio
+# Portal da CVX Regional Rio
+Comunidade de Vida Crist
