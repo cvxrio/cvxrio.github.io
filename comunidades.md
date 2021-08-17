@@ -1,8 +1,6 @@
 ---
-title:
+title: Comunidade
 ---
-
-## Comunidade
 
 A CVX é uma única Comunidade Mundial, cuja pertença se expressa no compromisso com uma comunidade local, composta por até 12 membros. Todos os membros da CVX formamos um só corpo e identificamo-nos com os Princípios Gerais e com o Carisma.
 
@@ -10,9 +8,9 @@ A experiência comunitária da CVX, em termos práticos, dá-se em primeira linh
 
 A CVX Regional Rio congrega todas as comunidades CVX do Estado do Rio de Janeiro. Atualmente estamos presentes na Arquidiocese de São Sebastião do Rio de Janeiro e na Diocese de Niterói. O assistente eclesiástico da Regional é o Pe. Paul Schweitzer SJ. Cada comunidade possui um assessor espiritual, leigo ou religioso, reconhecido pela coordenação regional.
 
-## A comunidade Regional é composta por:
+### A comunidade Regional é composta por:
 
-### Comunidades
+#### Comunidades:
 
 - Aprendizes do C. Jesus   
 - São José de Anchieta     
@@ -33,7 +31,7 @@ A CVX Regional Rio congrega todas as comunidades CVX do Estado do Rio de Janeiro
 - Inacio Peregrino   
 - Peregrinos da Esperança
 
-### Pré-comunidades
+#### Pré-comunidades:
 
 - Fé e Vida - Niteroi
 - Convivium Orante - Rio de Janeiro

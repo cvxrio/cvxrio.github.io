@@ -1,9 +1,6 @@
 ---
-title:
+title: Exercícios Espirituais
 ---
-
-## Exercícios Espirituais
-<br>
 
  > Os Exercícios Espirituais de Santo Inácio de Loyola são um caminho de oração que ajuda a criar uma familiaridade com Deus, a partir da oração e do silêncio. É um tempo propício para estar com o Senhor da Vida. É uma experiência de oração, de silêncio, tempo para estar consigo mesmo/a e com Deus. - **Pe Adroaldo Palaoro sj**
 

@@ -1,6 +1,8 @@
 ---
-title:
+title: Regionais
 ---
+
+<hr>
 
 ## Regional Bahia
 ##### Conselho Executivo Regional

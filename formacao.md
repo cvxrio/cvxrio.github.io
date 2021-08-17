@@ -3,7 +3,6 @@ title:
 feature_text: |
   ## Formação
 feature_image: "/assets/images/formacao-ee.jpg"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
 {% include button.html text="Humana" link="/forma-humama" color="#f68140" %} {% include button.html text="Litúrgica" link="/forma-liturgica" color="#f68140" %} {% include button.html text="Bíblica" link="/forma-biblica" color="#f68140" %} {% include button.html text="Socioambiental" link="/forma-socioambiental" color="#f68140" %} {% include button.html text="Materioteca CVX Brasil" link="/materioteca-cvx-brasil" color="#f68140" %}

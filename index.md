@@ -4,7 +4,7 @@ feature_text: |
   ## Seja muito bem vindo(a)
   Comunidade de Vida Cristã do Rio de Janeiro
 feature_image: "assets/images/cristo-redentor.jpg"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "Comunidade de Vida Cristã do Rio de Janeiro"
 ---
 
 Nós somos uma comunidade cristã que tem como fonte específica e instrumento característico de espiritualidade os **Exercícios Espirituais** de **Santo Inácio de Loyola**.

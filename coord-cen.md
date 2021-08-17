@@ -1,8 +1,6 @@
 ---
-title:
+title: Coordenação Nacional
 ---
-
-## Coordenação Nacional
 
 Coordenador Nacional: Alexandre Pinheiro Tenório (Regional Rio de Janeiro) – coordenador@cvx.org.br
 

@@ -3,7 +3,6 @@ title:
 feature_text: |
   ## CVX Brasil
 feature_image: "../assets/images/tau-cv.jpg"
-excerpt: ""
 ---
 
 {% include button.html text="Coordenação/CEN" link="/coord-cen" color="#f68140" %} {% include button.html text="Carisma CVX" link="/carisma-cvx" color="#f68140" %} {% include button.html text="Regionais" link="/regionais" color="#f68140" %} {% include button.html text="Estatuto" link="/estatuto-cen" color="#f68140" %} {% include button.html text="Encontro e Assembléia Nacional" link="/categories/#assembléias-nacionais" color="#f68140" %} {% include button.html text="CVX Mundial/EXCO" link="http://www.cvx-clc.net/l-sp/whereWeAre.html" color="#f68140" target="_blank" %} {% include button.html text="Site CVX Brasil" link="https://cvx.org.br/" color="#f68140" target="_blank" %}

@@ -1,8 +1,6 @@
 ---
-title:
+title: Coordenação Regional
 ---
-
-## Coordenação Regional
 
 Coordenador(a): Rutineia Chaves Jordão (CVX São José de Anchieta)
 

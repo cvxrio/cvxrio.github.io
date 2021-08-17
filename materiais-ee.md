@@ -1,8 +1,6 @@
 ---
-title:
+title: Materiais para os Exercícios Espirituais
 ---
-
-## Materiais para os Exercícios Espirituais
 
 Aqui você encontra os subsídios, impressos e digitais, para auxiliar na celebração do Ano Inaciano (2021-2022),  importante momento para a Companhia de Jesus em todo mundo e para os Exercícios Espirituais. Material disponível para download gratuito.
 
