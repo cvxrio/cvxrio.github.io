@@ -96,10 +96,10 @@ lang: pt-br # Set the site language
 title: "CVX Rio" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Comunidade de Vida Cristã do Rio de Janeiro" # Site description and default description, also used in jekyll-seo-tag
-url: "https://cvx.rio" # Site url, also used in jekyll-seo-tag
+url: "https://cvx.rio.br" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: ""
-email: "contato@cvx.rio"
+email: "contato@cvx.rio.br"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 date_format: "%d %b %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
