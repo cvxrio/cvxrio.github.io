@@ -1,2 +1,2 @@
 # Portal da CVX Regional Rio
-Comunidade de Vida Crist
+Comunidade de Vida Cristã do Rio de Janeiro
