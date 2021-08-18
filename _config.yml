@@ -94,7 +94,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: pt-br # Set the site language
 title: "CVX Rio" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/logos/logo-cvx.svg" # Site logo, also used in jekyll-seo-tag
 description: "Comunidade de Vida Cristã do Rio de Janeiro" # Site description and default description, also used in jekyll-seo-tag
 url: "https://cvx.rio.br" # Site url, also used in jekyll-seo-tag
 baseurl: ""
