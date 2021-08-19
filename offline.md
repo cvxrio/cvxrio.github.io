@@ -1,9 +1,9 @@
 ---
-title: Looks like you're offline
+title: Parece que você está offline
 indexing: false
 sitemap: false
 ---
 
-It appears that you've lost your network connection and this document doesn't exist on your device.
+Parece que você está enfrentando problemas de conexão com a Internet e está página não está salva em seu computador ou dispositivo portátil.
 
-Try either returning to the previous page, using the navigation to find your way back, or restore your network connection.
+Volte a página anterior, usando o menu do seu navegador ou tente se conectar a Internet novamente.
