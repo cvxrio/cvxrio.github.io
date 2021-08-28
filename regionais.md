@@ -7,27 +7,27 @@ title: Regionais
 ## Regional Bahia
 ##### Conselho Executivo Regional
 
-- Pe. Onofre Araújo Filho: Assistente Eclesiástico
+- Pe. Onofre Araújo Filho, SJ: Assistente Eclesiástico
 
 - Joilton Neres de Souza: Coordenador
+
+- Zoranei da Cruz Souza: Vice-Coordenadora
 
 - Ednorma Santos Silva Vaz: Secretária
 
 - Geraldo Luis Santos Borges: Tesoureiro
-
-- Zoranei da Cruz Souza: Vice-coordenadora
 <hr>
 
 ## Regional Brasília
 ##### Coordenação Executiva Regional
 
-- Regina Lucia Moreira de Carvalho: Coordenadora Regional
+- Regina Lucia Moreira de Carvalho: Coordenadora
 
-- Cleonice Antunes Pereira: Secretária Regional
+- Lylia Maria Nogueira Diógenes: Vice-Coordenadora
 
-- Ana Prata Girao: Tesoureira Regional
+- Cleonice Antunes Pereira: Secretária
 
-- Lylia Maria Nogueira Diógenes: Vice-coordenadora Regional
+- Ana Prata Girao: Tesoureira
 
 - Wellington  Gomes dos Santos: Vogal
 <hr>
@@ -39,25 +39,25 @@ title: Regionais
 
 - Maurício Generoso de Oliveira: Coordenador
 
+- Vicentina Lopes de Oliveira: Vice-Coordenadora
+
 - Frederico Generoso de Oliveira: Secretário
 
 - Leonardo Campos de Carvalho: Tesoureiro
-
-- Vicentina Lopes de Oliveira: Vice-coordenadora
 <hr>
 
 ## Regional Nosdeste
 ##### Coordenação Executiva Regional
 
-- Pe. Emmanuel da Silva e Araújo SJ: Assistente Eclesiástico
+- Pe. Emmanuel da Silva e Araújo, SJ: Assistente Eclesiástico
 
-- Orlando Dantas Gomes: Coordenador Regional
+- Orlando Dantas Gomes: Coordenador
 
-- Rosa Aparecida Caraça: Secretária Regional
+- Helma Janielle Souza de Oliveira: Vice-Coordenadora
 
-- Honorata Ferreira Mendes da Silva: Tesoureira Regional
+- Rosa Aparecida Caraça: Secretária
 
-- Helma Janielle Souza de Oliveira: Vice-coordenadora Regional
+- Honorata Ferreira Mendes da Silva: Tesoureira
 <hr>
 
 ## Regional São Paulo
@@ -67,11 +67,11 @@ title: Regionais
 
 - Cláudio G. S. A. Cassimiro: Coordenador
 
+- Guilherme Demarchi Silva: Vice-Coordenador
+
 - Clotilde Demarchi: Secretária
 
-- Vlamir Francisco Alves: Tesoureiro
-
-- Guilherme Demarchi Silva: Vice-coordenador 
+- Vlamir Francisco Alves: Tesoureiro 
 <hr>
 
 ## Regional Sul
@@ -83,6 +83,6 @@ title: Regionais
 
 - Hamilton Luis Michel: Vice-Coordenador
 
-- Patrícia Carstens Castellano: Tesoureira
-
 - Rafael Riva Finatti: Secretário
+
+- Patrícia Carstens Castellano: Tesoureira

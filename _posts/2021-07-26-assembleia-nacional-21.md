@@ -1,11 +1,11 @@
 ---
-title: Assembléia Nacional da CVX no Brasil 2021
+title: Assembleia Nacional da CVX no Brasil 2021
 categories:
-- Assembléias Nacionais
+- Assembleia Nacional
 feature_image: "/assets/images/assembleia.jpg"
 ---
 
-A Assembléia Nacional da CVX ocorrerá nos dias 23 e 24 de outubro.
+A Assembleia Nacional da CVX ocorrerá nos dias 23 e 24 de outubro.
 ANO INACIOANO.
 
 <!-- more -->
