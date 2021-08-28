@@ -1,5 +1,5 @@
 ---
-title: Comunidade
+title: Comunidades
 ---
 
 A CVX é uma única comunidade mundial, cuja pertença se expressa no compromisso com uma comunidade local, composta por até 12 membros. Todos os membros da CVX formamos um só corpo e identificamo-nos com os princípios gerais e com o carisma.
