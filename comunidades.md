@@ -13,24 +13,23 @@ O assistente eclesiástico da regional é o <black-mark>Pe. Paul Schweitzer, SJ<
 ### A comunidade Regional é composta por:
 
 #### Comunidades:
-- Aprendizes do C. Jesus   
-- São José de Anchieta     
-- Mª Arca da Aliança   
-- Mª Mãe da Esperança   
-- Maria Mãe do Amor  
-- Maria Porta do Céu 
+- Aprendizes do C. Jesus
+- São José de Anchieta
+- Mª Arca da Aliança
+- Mª Mãe da Esperança
+- Maria Mãe do Amor
+- Maria Porta do Céu
 - Nsa Sra da Luz
-- Nsa Sra da Paz  
-- Nsa Sra de Fátima    
-- Nsa Sra Montserrat  
-- Nsa Sra de Nazaré   
-- São Marcos   
-- Shalom   
-- Stella Matutina 
-- Virgem Oferente  
-- Cristo Redentor   
-- Inácio Peregrino   
+- Nsa Sra da Paz
+- Nsa Sra de Fátima
+- Nsa Sra Montserrat
+- Nsa Sra de Nazaré
+- São Marcos
+- Shalom
+- Virgem Oferente- Cristo Redentor
+- Inácio Peregrino
 - Peregrinos da Esperança
+- Comunidade Fé e Vida São Francisco Xavier
 
 #### Pré-Comunidades:
 - Fé e Vida - Niterói
