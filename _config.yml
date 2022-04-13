@@ -63,6 +63,7 @@ timezone: America/Sao_Paulo # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
+    permalink: /:collection/:name
     title: Postagens # Needed for Siteleaf
     output: true
     description: "Notícias e Fotos" # The post list page content
