@@ -68,7 +68,7 @@ collections:
     output: true
     description: "Notícias e Fotos" # The post list page content
     feature_text: |
-      Atividades CVX Rio
+      ## Atividades CVX Rio
     feature_image: "/assets/images/jornal.jpg"
 
 # 6. Jekyll collections settings
