@@ -86,10 +86,10 @@ body {
 }
 
 .footer {
-  background: $headingColour;
-  color: $captionColour;
+  background: $footerColour;
+  color: $white;
   a {
-    color: $captionColour;
+    color: $white;
     &:hover {
       color: $backgroundColour;
     }
@@ -99,6 +99,7 @@ body {
   }
   .small {
     padding-top: 0;
+    color: $white;
   }
 }
 
