@@ -14,9 +14,9 @@ Nós somos uma comunidade cristã que tem como fonte específica e instrumento c
 ## Destaques
 ##### Calendário, notícias e eventos
 
-{% include figure.html href="/calendario-atividades" image="/assets/images/calendar.jpg" position="right" width="300" height="800" %}
+{% include figure.html href="/calendario-atividades" image="/assets/images/calendario.png" position="right" width="300" height="800" %}
 
-{% include figure.html href="https://cvx.org.br/retirosinacianos2022/" image="/assets/images/oracao-santo-inacio.jpeg" position="left" width="300" height="800" %}
+{% include figure.html href="https://cvx.org.br/retirosinacianos2022/" image="/assets/images/oracao-santo-inacio.png" position="left" width="300" height="800" %}
 
 {% include figure.html %}
 
