@@ -6,6 +6,6 @@ title: Entre em contato com a Regional
 
 <hr>
 <div>
-    <p>E-mail de contato para CVX Brasil: <strong>cvxrio@cvx.org.br</strong></p>
+    <p>E-mail de contato para CVX Brasil: <strong>cvxrio[arroba]cvx[ponto]org[ponto]br</strong></p>
     <p>Telefone: em breve...</p>
 </div>
