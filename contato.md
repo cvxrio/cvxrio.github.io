@@ -2,7 +2,7 @@
 title: Entre em contato com a Regional
 ---
 
-{% include site-form.html %}
+<!-- {% include site-form.html %} -->
 
 <hr>
 <div>
