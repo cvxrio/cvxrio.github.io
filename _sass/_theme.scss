@@ -49,12 +49,24 @@ body {
   text-align: center;
   background: $featureBackgroundColour;
   background-size: cover;
-  background-position: center;
+  background-position: top;
   .container {
     min-height: 40vh;
     max-width: 90%;
     @include flex-direction(column);
     @include justify-content(center);
+  }
+
+  @include breakpoint(break-3) {
+    background-position: center;
+  }
+}
+
+.image-position {
+  background-position: unset;
+
+  @include breakpoint(break-3) {
+    background-position: center;
   }
 }
 

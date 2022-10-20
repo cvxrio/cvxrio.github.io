@@ -4,6 +4,7 @@ feature_text: |
   ## Seja muito bem vindo(a)
   Comunidade de Vida Cristã do Rio de Janeiro
 feature_image: "assets/images/cristo-redentor.jpg"
+custom_class: "image-position"
 excerpt: "Comunidade de Vida Cristã do Rio de Janeiro"
 ---
 
