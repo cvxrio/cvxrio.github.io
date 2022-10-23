@@ -1,0 +1,68 @@
+{% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
+{% assign cvx_rio = 'cvx-rio' %}
+{% assign cvx_brasil = "cvx-brasil" %}
+{% assign agenda = "agenda" %}
+{% assign espiritualidade = "espiritualidade" %}
+{% assign formacao = "formacao" %}
+{% assign contato = "contato" %}
+{% assign coord_cer = "coord-cer" %}
+{% assign comunidades = "comunidades" %}
+{% assign missao  = "missao" %}
+{% assign regimento_interno  = "regimento-interno" %}
+{% assign coord_cen  = "coord-cen" %}
+{% assign carisma_cvx  = "carisma-cvx" %}
+{% assign regionais  = "regionais" %}
+{% assign estatuto_cen  = "estatuto-cen" %}
+{% assign calendario_atividades  = "calendario-atividades" %}
+{% assign exercicios_espirituais  = "exercicios-espirituais" %}
+{% assign materiais_ee  = "materiais-ee" %}
+{% assign adroaldo_palaoro  = "adroaldo-palaoro" %}
+{% assign retiros_ee  = "retiros-ee" %}
+{% assign blog  = "blog" %}
+
+
+<div id="breadcrumbs">
+    <a href="/">Home</a>
+    {% for crumb in crumbs offset: 1 %}
+    {% if crumb contains cvx_rio  %} / A Regional
+    {% endif %}
+    {% if crumb contains cvx_brasil  %} / CVX Brasil
+    {% endif %}
+    {% if crumb contains agenda  %} / Agenda
+    {% endif %}
+    {% if crumb contains espiritualidade  %} / Espiritualidade CVX Rio
+    {% endif %}
+    {% if crumb contains formacao  %} / Formação
+    {% endif %}
+    {% if crumb contains contato  %} / Contato
+    {% endif %}
+    {% if crumb contains coord_cer  %} / <a href="/cvx-rio">A Regional</a> / Coordenação Regional
+    {% endif %}
+    {% if crumb contains comunidades  %} / <a href="/cvx-rio">A Regional</a> / Comunidades
+    {% endif %}
+    {% if crumb contains missao  %} / <a href="/cvx-rio">A Regional</a> / Missão
+    {% endif %}
+    {% if crumb contains regimento_interno  %} / <a href="/cvx-rio">A Regional</a> / Regimento Interno
+    {% endif %}
+    {% if crumb contains coord_cen  %} / <a href="/cvx-brasil">CVX Brasil</a> / Coordenação Nacional
+    {% endif %}
+    {% if crumb contains carisma_cvx  %} / <a href="/cvx-brasil">CVX Brasil</a> / Carisma CVX
+    {% endif %}
+    {% if crumb contains regionais  %} / <a href="/cvx-brasil">CVX Brasil</a> / Regionais
+    {% endif %}
+    {% if crumb contains estatuto_cen  %} / <a href="/cvx-brasil">CVX Brasil</a> / Estatuto CVX Brasil
+    {% endif %}
+    {% if crumb contains calendario_atividades  %} / <a href="/agenda">Agenda</a> / Calendário de Atividades
+    {% endif %}
+    {% if crumb contains exercicios_espirituais  %} / <a href="/espiritualidade">Espiritualidade CVX Rio</a> / Exercícios Espirituais
+    {% endif %}
+    {% if crumb contains materiais_ee  %} / <a href="/espiritualidade">Espiritualidade CVX Rio</a> / Materiais para os Exercícios Espirituais
+    {% endif %}
+    {% if crumb contains adroaldo_palaoro  %} / <a href="/espiritualidade">Espiritualidade CVX Rio</a> / Pe Adroaldo Palaoro, SJ
+    {% endif %}
+    {% if crumb contains retiros_ee  %} / <a href="/espiritualidade">Espiritualidade CVX Rio</a> / Retiros dos Exercícios Espirituais
+    {% endif %}
+    {% if crumb contains blog  %} / Atividades CVX Rio
+    {% endif %}
+    {% endfor %}
+</div>
