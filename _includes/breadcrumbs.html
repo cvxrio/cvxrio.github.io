@@ -1,4 +1,5 @@
 {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
+{% assign custom_class = page.custom_class %}
 {% assign cvx_rio = 'cvx-rio' %}
 {% assign cvx_brasil = "cvx-brasil" %}
 {% assign agenda = "agenda" %}
@@ -20,8 +21,7 @@
 {% assign retiros_ee  = "retiros-ee" %}
 {% assign blog  = "blog" %}
 
-
-<div id="breadcrumbs">
+<div id="breadcrumbs" {% if custom_class contains 'without-feature' %} class="{{ custom_class }}" {% endif %}>
     <a href="/">Home</a>
     {% for crumb in crumbs offset: 1 %}
     {% if crumb contains cvx_rio  %} / A Regional

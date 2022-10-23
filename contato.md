@@ -1,5 +1,6 @@
 ---
 title: Entre em contato com a Regional
+custom_class: "without-feature"
 ---
 
 <!-- {% include site-form.html %} -->

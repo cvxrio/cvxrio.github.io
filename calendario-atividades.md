@@ -1,5 +1,6 @@
 ---
 title: Calendário de Atividades
+custom_class: "without-feature"
 ---
 
 <div data-tockify-component="calendar" data-tockify-calendar="cvx.rio"></div>

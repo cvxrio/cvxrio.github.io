@@ -1,5 +1,6 @@
 ---
 title: Missão
+custom_class: "without-feature"
 ---
 
 A CVX Regional Rio congrega as Comunidades de Vida Cristã (CVX) do estado do Rio de Janeiro. <black-mark>É governada pela Assembleia Regional e pela Coordenação Regional</black-mark>. 

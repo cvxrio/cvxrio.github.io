@@ -1,5 +1,6 @@
 ---
 title: Pe Adroaldo Palaoro, SJ
+custom_class: "without-feature"
 ---
 
 O Pe. Adroaldo Palaoro, SJ é o atual Diretor do Centro de Espiritualidade Inaciana – CEI.

@@ -1,5 +1,6 @@
 ---
 title: Estatuto CVX Brasil
+custom_class: "without-feature"
 ---
 
 ### ASSOCIAÇÃO DAS COMUNIDADES DE VIDA CRISTÃ DO BRASIL

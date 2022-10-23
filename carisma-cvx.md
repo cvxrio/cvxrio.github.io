@@ -1,5 +1,6 @@
 ---
 title: Carisma CVX
+custom_class: "without-feature"
 ---
 
 O **carisma CVX** e sua espiritualidade são inacianos. Os **Exercícios Espirituais** de Santo Inácio constituem a fonte específica deste carisma e o instrumento característico desta espiritualidade.

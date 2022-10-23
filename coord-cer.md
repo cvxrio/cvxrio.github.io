@@ -1,6 +1,9 @@
 ---
 title: Coordenação Regional
+custom_class: "without-feature"
 ---
+
+<div id="without-feature"></div>
 
 Assistente Eclesiástico: Pe Paul Schweitzer, SJ
 

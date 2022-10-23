@@ -1,5 +1,6 @@
 ---
 title: REGIMENTO INTERNO
+custom_class: "without-feature"
 ---
 
 ### ASSOCIAÇÃO DAS COMUNIDADES DE VIDA CRISTÃ DO BRASIL (ACVCB) – REGIONAL RIO
