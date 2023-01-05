@@ -5,7 +5,7 @@ custom_class: "without-feature"
 
 <div id="without-feature"></div>
 
-Assistente Eclesiástico: Pe Abel, SJ
+Assistente Eclesiástico: Pe José Abel de Sousa, SJ
 
 Coordenadora: Rutineia Chaves Jordão (CVX São José de Anchieta)
 
