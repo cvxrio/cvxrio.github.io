@@ -5,15 +5,15 @@ custom_class: "without-feature"
 
 <div id="without-feature"></div>
 
-Assistente Eclesiástico: Pe Paul Schweitzer, SJ
+Assistente Eclesiástico: Pe Abel, SJ
 
 Coordenadora: Rutineia Chaves Jordão (CVX São José de Anchieta)
 
-Vice-Coordenadora: Isabel Maria Lambert Torres (CVX Cristo Redentor)
+Vice-Coordenadora: Anna Wolter
 
-Secretária: Maria de Lourdes dos Santos Mendonça (CVX São Marcos)
+Secretária: Margarida Monteiro
 
-Tesoureiro: Guilherme Barreto de Paula Ferreira (CVX Amar e Servir - RJ)
+Tesoureiro: Luis Fernando Jordão
 
 ## Coordenação Executiva Regional (CER)
 
