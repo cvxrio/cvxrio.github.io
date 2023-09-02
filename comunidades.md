@@ -9,7 +9,7 @@ A experiência comunitária da CVX, em termos práticos, dá-se em primeira linh
 
 A CVX Regional Rio congrega todas as comunidades CVX do Estado do Rio de Janeiro. Atualmente estamos presentes na Arquidiocese de São Sebastião do Rio de Janeiro e na Diocese de Niterói.
 
-O assistente eclesiástico da regional é o <black-mark>Pe. Paul Schweitzer, SJ</black-mark>. Cada comunidade possui um assessor espiritual, leigo ou religioso, reconhecido pela coordenação regional.
+O assistente eclesiástico da regional é o <black-mark>Pe. Abel, SJ</black-mark>. Cada comunidade possui um assessor espiritual, leigo ou religioso, reconhecido pela coordenação regional.
 
 ### A comunidade Regional é composta por:
 
