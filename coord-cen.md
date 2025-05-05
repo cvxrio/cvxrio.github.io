@@ -3,12 +3,12 @@ title: Coordenação Nacional
 custom_class: "without-feature"
 ---
 
-Assistente Eclesiástico: Pe. Emmanuel da Silva e Araújo, SJ <black-mark>(Regional Bahia)</black-mark>
+Assistente Eclesiástico: Pe. Miguel Martins, SJ
 
-Coordenador Nacional: Rafael Finatti – coordenador@cvx.org.br
+Coordenador Nacional: Edson Guedes
 
-Vice-Coordenadora Nacional: Helma
+Vice-Coordenadora Nacional: Gilda Carvalho
 
-Secretária Nacional: Marlene Mannarino – cen@cvx.org.br
+Secretária Nacional: Helma Oliveira
 
-Tesoureira Nacional: Ana Maria Martins  – tesouraria@cvx.org.br
+Tesoureira Nacional: Ana Maria Martins

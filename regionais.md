@@ -6,82 +6,118 @@ custom_class: "without-feature"
 ## Regional Bahia
 ##### Conselho Executivo Regional
 
-- Pe. Onofre Araújo Filho, SJ: Assistente Eclesiástico
+Em construção...
 
-- Joilton Neres de Souza: Coordenador
+[//]: # (- Pe. Onofre Araújo Filho, SJ: Assistente Eclesiástico)
 
-- Zoranei da Cruz Souza: Vice-Coordenadora
+[//]: # ()
+[//]: # (- Joilton Neres de Souza: Coordenador)
 
-- Ednorma Santos Silva Vaz: Secretária
+[//]: # ()
+[//]: # (- Zoranei da Cruz Souza: Vice-Coordenadora)
 
-- Geraldo Luis Santos Borges: Tesoureiro
+[//]: # ()
+[//]: # (- Ednorma Santos Silva Vaz: Secretária)
+
+[//]: # ()
+[//]: # (- Geraldo Luis Santos Borges: Tesoureiro)
 <hr>
 
 ## Regional Brasília
 ##### Coordenação Executiva Regional
 
-- Regina Lucia Moreira de Carvalho: Coordenadora
+Em construção...
 
-- Lylia Maria Nogueira Diógenes: Vice-Coordenadora
+[//]: # (- Regina Lucia Moreira de Carvalho: Coordenadora)
 
-- Cleonice Antunes Pereira: Secretária
+[//]: # ()
+[//]: # (- Lylia Maria Nogueira Diógenes: Vice-Coordenadora)
 
-- Ana Prata Girao: Tesoureira
+[//]: # ()
+[//]: # (- Cleonice Antunes Pereira: Secretária)
 
-- Wellington  Gomes dos Santos: Vogal
+[//]: # ()
+[//]: # (- Ana Prata Girao: Tesoureira)
+
+[//]: # ()
+[//]: # (- Wellington  Gomes dos Santos: Vogal)
 <hr>
 
 ## Regional Minas Gerais
 ##### Coordenação Executiva Regional
 
-- Pe. Miguel de Oliveira Martins Filho, SJ: Assistente Eclesiástico
+Em construção...
 
-- Maurício Generoso de Oliveira: Coordenador
+[//]: # (- Pe. Miguel de Oliveira Martins Filho, SJ: Assistente Eclesiástico)
 
-- Vicentina Lopes de Oliveira: Vice-Coordenadora
+[//]: # ()
+[//]: # (- Maurício Generoso de Oliveira: Coordenador)
 
-- Frederico Generoso de Oliveira: Secretário
+[//]: # ()
+[//]: # (- Vicentina Lopes de Oliveira: Vice-Coordenadora)
 
-- Leonardo Campos de Carvalho: Tesoureiro
+[//]: # ()
+[//]: # (- Frederico Generoso de Oliveira: Secretário)
+
+[//]: # ()
+[//]: # (- Leonardo Campos de Carvalho: Tesoureiro)
 <hr>
 
-## Regional Nosdeste
+## Regional Nordeste
 ##### Coordenação Executiva Regional
 
-- Pe. Emmanuel da Silva e Araújo, SJ: Assistente Eclesiástico
+Em construção...
 
-- Orlando Dantas Gomes: Coordenador
+[//]: # (- Pe. Emmanuel da Silva e Araújo, SJ: Assistente Eclesiástico)
 
-- Helma Janielle Souza de Oliveira: Vice-Coordenadora
+[//]: # ()
+[//]: # (- Orlando Dantas Gomes: Coordenador)
 
-- Rosa Aparecida Caraça: Secretária
+[//]: # ()
+[//]: # (- Helma Janielle Souza de Oliveira: Vice-Coordenadora)
 
-- Honorata Ferreira Mendes da Silva: Tesoureira
+[//]: # ()
+[//]: # (- Rosa Aparecida Caraça: Secretária)
+
+[//]: # ()
+[//]: # (- Honorata Ferreira Mendes da Silva: Tesoureira)
 <hr>
 
 ## Regional São Paulo
 ##### Coordenação Executiva Regional
 
-- Pe. Jonas Carvalho, SJ: Assistente Eclesiástico
+Em construção...
 
-- Cláudio G. S. A. Cassimiro: Coordenador
+[//]: # (- Pe. Jonas Carvalho, SJ: Assistente Eclesiástico)
 
-- Guilherme Demarchi Silva: Vice-Coordenador
+[//]: # ()
+[//]: # (- Cláudio G. S. A. Cassimiro: Coordenador)
 
-- Clotilde Demarchi: Secretária
+[//]: # ()
+[//]: # (- Guilherme Demarchi Silva: Vice-Coordenador)
 
-- Vlamir Francisco Alves: Tesoureiro 
+[//]: # ()
+[//]: # (- Clotilde Demarchi: Secretária)
+
+[//]: # ()
+[//]: # (- Vlamir Francisco Alves: Tesoureiro )
 <hr>
 
 ## Regional Sul
 ##### Coordenação Executiva Regional Sul (CERS) - Biênio 2020/2021
 
-- Ir. Sidney Mayer, SJ: Assistente Eclesiástico
+Em construção...
 
-- Murilo Fernando Junkes Vieira: Coordenador
+[//]: # (- Ir. Sidney Mayer, SJ: Assistente Eclesiástico)
 
-- Hamilton Luis Michel: Vice-Coordenador
+[//]: # ()
+[//]: # (- Murilo Fernando Junkes Vieira: Coordenador)
 
-- Rafael Riva Finatti: Secretário
+[//]: # ()
+[//]: # (- Hamilton Luis Michel: Vice-Coordenador)
 
-- Patrícia Carstens Castellano: Tesoureira
+[//]: # ()
+[//]: # (- Rafael Riva Finatti: Secretário)
+
+[//]: # ()
+[//]: # (- Patrícia Carstens Castellano: Tesoureira)

@@ -9,7 +9,7 @@ Encontro de formação on-line com o Pe. Elio Gasda sj
 
 <!-- more -->
 
-Nos dia 10 de maio terá o encontro de formação online promivido pelo Núcleos Inacianos com o Padre jesuíta Elio Gasda.
+No dia 10 de maio terá o encontro de formação online promovido pelo Núcleos Inacianos com o Padre jesuíta Elio Gasda.
 
 ![Encontro Formação online com Elio_Gasda](/assets/images/encontro-online-elio-gasda.png){: .center-img}
 
