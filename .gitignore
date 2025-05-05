@@ -6,3 +6,6 @@ alembic-jekyll-theme-*.gem
 Gemfile.lock
 **/Gemfile.lock
 
+# JetBrains IDE
+.idea
+
